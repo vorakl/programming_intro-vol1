@@ -5,10 +5,12 @@ All source code is written in Pascal programming language and to get compiled it
 
 ## How to build
 
-To build programs, simply go to the directory and run `make`.
+* to build programs simply go to the directory and run `make`.
+* to remove object files run `make clean-obj`.
+* to remove object and executable files run `make clean`
 
 ## What's inside
 
-* [adt](adt/), some Abstract Data Types (ADT)
+* [adt](adt/), some Abstract Data Types (ADTs)
 * [misc](misc/), miscellaneous programms
 * [recursion](recursion/), solutions based which use recursion
