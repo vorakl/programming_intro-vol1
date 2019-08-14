@@ -37,7 +37,7 @@ begin
 
     for k := 1 to 2 do begin
         ll_cur := ll_first;
-        writeln('Write a list of ', elems, ' items in a straight order: ');
+        writeln('Writing a list of ', elems, ' items in a straight order (',k,' iteration): ');
         while ll_cur <> nil do begin
             writeln(ll_cur^.data);
             ll_cur := ll_cur^.next;

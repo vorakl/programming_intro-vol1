@@ -10,5 +10,5 @@ To build programs, simply go to the directory and run `make`.
 ## What's inside
 
 * [adt](adt/), some Abstract Data Types (ADT)
-* [misc](mics/), miscellaneous programms
+* [misc](misc/), miscellaneous programms
 * [recursion](recursion/), solutions based which use recursion

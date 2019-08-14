@@ -31,7 +31,7 @@ begin
         ll_first := ll_cur;
     end;
 
-    writeln('Write a list of ', elems, ' items in a reverse order: ');
+    writeln('Writing a list of ', elems, ' items in a reverse order: ');
     while ll_cur <> nil do begin
         writeln(ll_cur^.data);
         ll_cur := ll_cur^.next;
