@@ -3,7 +3,7 @@
 My Practice and Experiments for the book ["Программирование: введение в профессию. Том 1: азы программирования"](http://stolyarov.info/books/programming_intro/vol1)
 All source code is written in Pascal programming language and to get compiled it requires Free Pascal Compiler.
 
-## How to build
+## How to build/clean
 
 * to build programs simply go to the directory and run `make`.
 * to remove object files run `make clean-obj`.
